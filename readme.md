@@ -1,4 +1,4 @@
-## A bash script that handles very simple extraction of these compressed types:
+## ,A bash script that handles very simple extraction of these compressed types:
 ```
 .tar.bz2
 .tar.gz
